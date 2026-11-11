@@ -4,7 +4,9 @@
 
 Reusable checklists for Windows. Follow every step, save your progress, and keep a record of each completed run.
 
-Runseta is preparing for its Microsoft Store release. Downloads are not publicly available yet.
+[Download Runseta 0.1.25 for Windows x64](https://github.com/zematools/runseta/releases/download/v0.1.25/Runseta_0.1.25_x64-setup.exe) — 2.46 MB (2.34 MiB).
+
+The Microsoft Store release is coming soon.
 
 ## See it in action
 
@@ -27,7 +29,7 @@ Useful for client deliveries, recording preparation, website releases, and weekl
 | Folders | — | Included |
 | Copy summary and Print / PDF | — | Included |
 
-Pro is planned at **US $7.99 as a one-time purchase** through Microsoft Store, with no subscription. Local prices and applicable taxes will be shown before purchase.
+Pro is **US $7.99 as a one-time purchase** through Dodo Payments, with no subscription. Upgrade inside Runseta. Local currency and applicable taxes are shown at checkout. A license supports up to 3 devices.
 
 ## Your projects at a glance
 
@@ -41,9 +43,9 @@ Pro is planned at **US $7.99 as a one-time purchase** through Microsoft Store, w
 </details>
 
 <details>
-<summary>Multiple runs and completed history</summary>
+<summary>Reusable steps and completed history</summary>
 
-![Two projects using one checklist](assets/details.png)
+![YouTube upload checklist with its folder, active run and reusable steps](assets/details.png)
 
 ![A completed run with its steps and note](assets/history.png)
 
@@ -53,9 +55,9 @@ Screenshots show the real app with sample projects. Some pictured features requi
 
 ## Privacy and support
 
-Checklist work is stored locally and works offline. Runseta does not provide its own cloud synchronization. Installation, purchases, and some Store license checks require an internet connection.
+Checklist work is stored locally and works offline. Runseta does not provide its own cloud synchronization. Downloads, purchases, activation, and license verification require an internet connection. Pro works offline for 7 days after verification; connect at least once a week to keep it verified.
 
-Read the [privacy policy](https://zematools.github.io/runseta/privacy.html) after GitHub Pages is enabled. For questions or feedback, email [serviceamanuel@gmail.com](mailto:serviceamanuel@gmail.com).
+Read the [privacy policy](https://zematools.github.io/runseta/privacy.html). For questions or feedback, email [serviceamanuel@gmail.com](mailto:serviceamanuel@gmail.com).
 
 Developed by **Amanuel Yohannes**.
 
