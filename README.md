@@ -43,9 +43,9 @@ Pro is **US $7.99 as a one-time purchase** through Dodo Payments, with no subscr
 </details>
 
 <details>
-<summary>Multiple runs and completed history</summary>
+<summary>Reusable steps and completed history</summary>
 
-![Two projects using one checklist](assets/details.png)
+![YouTube upload checklist with its folder, active run and reusable steps](assets/details.png)
 
 ![A completed run with its steps and note](assets/history.png)
 
