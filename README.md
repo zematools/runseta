@@ -4,7 +4,7 @@
 
 Reusable checklists for Windows. Follow every step, save your progress, and keep a record of each completed run.
 
-[Download Runseta 0.1.25 for Windows x64](https://github.com/zematools/runseta/releases/download/v0.1.25/Runseta_0.1.25_x64-setup.exe) — 2.46 MB (2.34 MiB).
+[Download Runseta 0.1.26 for Windows x64](https://github.com/zematools/runseta/releases/download/v0.1.26/Runseta_0.1.26_x64-setup.exe) — 2.45 MB (2.34 MiB).
 
 The Microsoft Store release is coming soon.
 
@@ -55,7 +55,7 @@ Screenshots show the real app with sample projects. Some pictured features requi
 
 ## Privacy and support
 
-Checklist work is stored locally and works offline. Runseta does not provide its own cloud synchronization. Downloads, purchases, activation, and license verification require an internet connection. Pro works offline for 7 days after verification; connect at least once a week to keep it verified.
+Checklist work is stored locally and works offline. Runseta does not provide its own cloud synchronization. After activation, Pro works offline without a time limit. Internet is required for downloads, purchases, and activation. License status is checked when online.
 
 Read the [privacy policy](https://zematools.github.io/runseta/privacy.html). For questions or feedback, email [serviceamanuel@gmail.com](mailto:serviceamanuel@gmail.com).
 
